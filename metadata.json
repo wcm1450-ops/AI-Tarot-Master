@@ -1,0 +1,6 @@
+{
+  "name": "AI Tarot Master",
+  "description": "智慧塔羅占卜系統 - 提供AI解牌、78張塔羅百科、每日運勢及線上命理對話顧問",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
